@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.ecfr.gov)",
+      "WebFetch(domain:www.law.cornell.edu)",
+      "WebFetch(domain:www.va.gov)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.publichealth.va.gov)",
+      "WebFetch(domain:www.gao.gov)",
+      "WebFetch(domain:apps.dtic.mil)",
+      "WebFetch(domain:www.knowva.ebenefits.va.gov)",
+      "WebFetch(domain:historynet.com)",
+      "WebFetch(domain:www.workerveteranhealth.org)",
+      "WebFetch(domain:www.federalregister.gov)",
+      "WebFetch(domain:www.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.70engrbtn.com)"
+    ]
+  }
+}
