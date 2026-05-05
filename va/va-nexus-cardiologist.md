@@ -10,9 +10,9 @@ Of his current issues, we understand the following are of the sort that could be
 - Ischemic heart disease
 
 
-We would like to request that you consider writing nexus letters for John that describes any link between his issues and his military history.  We are informed that a separate letter is required for each specific health issue.  
+We would like to request that you consider writing nexus letters for John that describes any link between his issues and his military history.  We have been informed that a separate letter is required for each specific health issue.  
 
-We have included additional documentation of his service record and background on his assignments in Vietnam.  
+We will include additional documentation of his service record and background on his assignments in Vietnam.  
 
 Your help in his matter is greatly appreciated.  
 
