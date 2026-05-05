@@ -13,7 +13,10 @@
       "WebFetch(domain:www.workerveteranhealth.org)",
       "WebFetch(domain:www.federalregister.gov)",
       "WebFetch(domain:www.ncbi.nlm.nih.gov)",
-      "WebFetch(domain:www.70engrbtn.com)"
+      "WebFetch(domain:www.70engrbtn.com)",
+      "Bash(pandoc va-medical-research.md -o va-medical-research.pdf --pdf-engine=weasyprint -V geometry:margin=0.75in --metadata title=\"VA Service-Connected Disability Research\")",
+      "Bash(pandoc va-medical-short.md -o va-medical-short.pdf --pdf-engine=weasyprint -V geometry:margin=0.75in --metadata title=\"VA Nexus Letter — Physician Briefing\")",
+      "Bash(pandoc va-medical-brief.md -o va-medical-brief.pdf --pdf-engine=weasyprint -V geometry:margin=0.75in --metadata title=\"VA Nexus Letter Brief\")"
     ]
   }
 }

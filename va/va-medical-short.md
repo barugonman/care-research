@@ -6,7 +6,7 @@
 **MOS:** 12B (Pioneer/Engineer); APO SF 96450; honorable discharge
 **No significant medical issues during active service.**
 
-**Conditions for nexus opinion (current 2026 diagnoses):** hypertension; ischemic heart disease; recent stroke (CVA); recent seizure; renal mass (suspected RCC); urinary incontinence.
+**Conditions for nexus opinion (current 2026 diagnoses):** hypertension; ischemic heart disease; **Parkinson's disease or parkinsonism (PD-like syndrome)**; recent stroke (CVA); recent seizure; renal mass (suspected RCC); urinary incontinence.
 
 ---
 
@@ -40,18 +40,30 @@ The 70th was the **first U.S. combat engineer battalion in Vietnam** — built C
 
 ---
 
-## 3. Two Presumptive Anchor Diagnoses (38 C.F.R. § 3.309(e))
+## 3. Three Presumptive Anchor Diagnoses (38 C.F.R. § 3.309(e))
 
-These are the bedrock — both already presumptive for Vietnam vets with herbicide exposure:
+These are the bedrock — all three already presumptive for Vietnam vets with herbicide exposure:
 
 - **Hypertension** — added by **PACT Act § 404 (Aug 2022)**; NASEM *Veterans and Agent Orange Update 2018* moved HTN to **"sufficient evidence of an association"** (highest evidentiary tier). Mechanism: AhR activation → NADPH-oxidase oxidative stress, eNOS inactivation, AT1R upregulation, RAAS sensitization. ([Kopf et al., PMC](https://ncbi.nlm.nih.gov/sites/ppmc/articles/PMC2648846/) · [AhR endothelial review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10488274/))
 - **Ischemic heart disease** — presumptive since 2010 (75 FR 53202). Mechanism: AhR-driven accelerated atherosclerosis, vascular oxidative stress, foam-cell formation, IL-6/TNF-α/MCP-1 induction. Seveso zone-A male cardiovascular RR = 2.00. ([NASEM cardiovascular chapter, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK195089/) · [VA — IHD and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/conditions/ischemicheartdisease.asp))
+- **Parkinson's disease** — presumptive since 2010 (75 FR 14391); NASEM *Update 2014* reaffirmed "limited or suggestive evidence." **Parkinsonism** (PD-like syndromes — progressive supranuclear palsy, multiple system atrophy, vascular parkinsonism, drug-induced parkinsonism, corticobasal degeneration, DLB with parkinsonian features) was **added to the presumptive list by the FY2021 NDAA § 9109**, codified at 89 FR 9938 (Feb 12, 2024). Mechanism: TCDD/AhR activation + paraquat-class herbicide co-contaminants + **TCE (independently associated with PD; OR ~6 in twin study, Goldman 2012)** → mitochondrial complex-I inhibition, SNc dopaminergic neuron oxidative death, α-synuclein aggregation, microglial neuroinflammation. ([VA — Parkinson's & AO](https://www.publichealth.va.gov/exposures/agentorange/conditions/parkinsons.asp) · [VA — FY2021 additions](https://www.publichealth.va.gov/exposures/publications/agent-orange/agent-orange-2021/presumptions.asp) · [NASEM neurologic chapter, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK535896/) · [Goldman et al., *Ann Neurol* 2012, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366287/))
 
-> **Note:** Per § 3.309(e), "ischemic heart disease" *expressly excludes* stroke. Stroke must be filed as **secondary** to HTN/IHD, not as part of IHD itself.
+> **Note 1:** Per § 3.309(e), "ischemic heart disease" *expressly excludes* stroke. Stroke must be filed as **secondary** to HTN/IHD, not as part of IHD itself.
+> **Note 2:** The "parkinsonism" rubric is broad and intentionally captures PD-mimics. If the diagnosis is uncertain or the clinical picture is atypical (e.g., early postural instability, vertical gaze palsy, dysautonomia, asymmetric apraxia), file under "parkinsonism" rather than "Parkinson's disease" — this preserves the presumption regardless of whether subsequent workup refines the diagnosis to PSP, MSA, vascular parkinsonism, etc.
 
 ---
 
 ## 4. Per-Condition Nexus Summary
+
+### Parkinson's disease / parkinsonism — direct presumptive
+- **Parkinson's disease has been on the AO presumptive list since 2010** (75 FR 14391); **parkinsonism** (PD-mimic syndromes) was added by FY2021 NDAA. Either label triggers the presumption — **no nexus letter is strictly required for the presumption to apply** (a brief one strengthens the file and lets you connect autonomic incontinence as secondary).
+- Mechanism convergence — three independent toxicant pathways relevant to this veteran:
+  1. **TCDD / Agent Orange** — AhR activation in dopaminergic neurons drives mitochondrial complex-I inhibition, oxidative stress, α-synuclein aggregation, and microglial neuroinflammation. Paraquat and rotenone (mechanistically related dopaminergic toxins) are well-validated PD inducers.
+  2. **TCE** — IARC Group 1 solvent independently associated with PD; **Goldman et al. (Ann Neurol 2012) twin-discordance study OR ~6** for occupational TCE exposure ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366287/)). This veteran's daily motor-pool TCE use is a *direct* PD risk factor on top of herbicide exposure.
+  3. **Combat blast / mild TBI** — moderate-to-severe TBI roughly doubles PD risk; even repeated mild TBI is associated with increased α-synuclein pathology.
+- Latency: PD typical onset 60+; latency from exposure 20–40 years — present-day diagnosis from 1965–69 exposure is squarely consistent with the natural history.
+- Confounders: age, family history, *negative* confounder of smoking (smokers paradoxically have lower PD risk). Confounders are legally irrelevant once boots-on-ground is established.
+- **Draft language:** *"Mr. ___'s diagnosis of [Parkinson's disease / parkinsonism — specify subtype if known: PSP, MSA, vascular parkinsonism, drug-induced, etc.] is a presumptive service-connected condition under 38 C.F.R. § 3.309(e), based on his presumed Agent Orange exposure during active service in the Republic of Vietnam from 1965–1969. To the extent additional medical opinion is requested, it is **at least as likely as not** that his condition is the result of his service exposures via three converging mechanisms: (i) TCDD/AhR-mediated dopaminergic neurodegeneration; (ii) chronic occupational exposure to trichloroethylene during motor-pool operations (Goldman et al., Ann Neurol 2012, OR ~6); and (iii) combat blast/concussive injury, which roughly doubles PD risk."*
 
 ### Stroke (CVA) — secondary to HTN + IHD; backup direct theory
 - **HTN confers 2- to 6-fold ischemic stroke risk and 2- to 7-fold hemorrhagic stroke risk** ([HTN-stroke meta-analysis, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12823101/)). Same atherosclerotic substrate as IHD; cardioembolic mechanisms from AF / post-MI / low-EF.
@@ -81,11 +93,12 @@ Five converging carcinogenic pathways:
 - Latency: RCC 20–50 years; presentation at age 80+ from 1960s exposure is squarely consistent.
 - **Draft language:** *"Although kidney cancer is not currently a presumptive condition under 38 C.F.R. § 3.309(e), it is at least as likely as not (probability ≥ 50%) that Mr. ___'s renal mass was caused or aggravated by his military service, on multiple converging grounds: (i) direct exposure to trichloroethylene (IARC Group 1, sufficient evidence for human kidney cancer); (ii) sustained exposure to JP-4 jet fuel and benzene (case-referent kidney-cancer OR ≈ 3); (iii) presumed Agent Orange / TCDD exposure with documented dioxin-kidney-cancer mortality elevation in pooled meta-analysis; (iv) secondary connection under 38 C.F.R. § 3.310 to his service-connected hypertension, which independently doubles RCC risk and triples it after two decades; and (v) silica exposure from rock-quarry operations producing chronic nephropathic injury."*
 
-### Urinary incontinence — secondary to stroke (and HTN-driven nephropathy)
+### Urinary incontinence — secondary to stroke and/or PD; HTN-driven nephropathy as alternative
 - **Post-stroke neurogenic bladder: 38–60% acute prevalence, 15–25% chronic; ~90% of cases mediated by detrusor overactivity** ([Bladder dysfunction post-stroke, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409650/) · [Stroke/AHA Journals](https://www.ahajournals.org/doi/10.1161/01.STR.29.2.524)).
-- Frontal/insular cortex strokes disinhibit micturition reflex.
+- **PD autonomic neurogenic bladder: LUTS prevalence 27–80% in PD; detrusor overactivity is the typical urodynamic pattern** ([Sakakibara, *Auton Neurosci* 2014, PubMed](https://pubmed.ncbi.nlm.nih.gov/24447694/)). Mechanism: degeneration of basal-ganglia inhibition of pontine micturition center → detrusor overactivity, urgency, frequency.
+- Frontal/insular cortex strokes disinhibit micturition reflex; PD adds an independent autonomic pathway.
 - Alternative pathways: renal mass / hypertensive nephrosclerosis driving urgency / nocturia / overflow.
-- **Draft language:** *"Mr. ___'s urinary incontinence is at least as likely as not proximately caused by his cerebrovascular accident (38 C.F.R. § 3.310), with post-stroke neurogenic detrusor overactivity prevalence of 38–60% in the acute phase and 15–25% chronically. The temporal alignment between his stroke and the onset of incontinence supports the causal connection."*
+- **Draft language:** *"Mr. ___'s urinary incontinence is at least as likely as not proximately caused by his cerebrovascular accident and/or his Parkinson's disease (parkinsonism) under 38 C.F.R. § 3.310. Post-stroke neurogenic detrusor overactivity prevalence is 38–60% acute and 15–25% chronically; PD autonomic neurogenic bladder prevalence is 27–80%, also predominantly detrusor-overactivity in pattern. Both upstream conditions are themselves service-connected (stroke as secondary to presumptive HTN/IHD; PD/parkinsonism as direct presumptive), making the downstream incontinence service-connected by operation of the secondary-connection regulation. The temporal alignment between his stroke / PD onset and the onset of incontinence supports the causal connection."*
 
 ---
 
@@ -96,15 +109,20 @@ Service exposures (1965–69)              Pivotal physiology              Ancho
 ────────────────────────────             ─────────────────────           ──────────────────         ─────────────
 Agent Orange (TCDD)            ─┐        AhR activation            ┐    HYPERTENSION ─┬─► STROKE ─┬─► SEIZURE (PSE)
 TCE / chlorinated solvents      │        Endothelial dysfunction    │    (PACT Act)    │           │
-JP-4 / benzene                  ├──────► Vascular oxidative stress ─┼─►                ├─► RENAL   └─► INCONTINENCE
-Burn-pit PM2.5                  │        RAAS sensitization         │    IHD           │   MASS ───┘
-Lead, silica, asbestos, PCBs    │        Atherogenesis              │    (presumptive  │
-Combat blast / TBI             ─┘        Renal tubular DNA damage   │     since 2010)  │
-                                         Cortical scarring          ┘                  │
-                                                                                       └─► (also direct: TCE/JP-4/dioxin)
+JP-4 / benzene                  ├──────► Vascular oxidative stress ─┼─►                ├─► RENAL   └─► INCONTINENCE ◄─┐
+Burn-pit PM2.5                  │        RAAS sensitization         │    IHD           │   MASS ───┘                  │
+Lead, silica, asbestos, PCBs    │        Atherogenesis              │    (presumptive  │                              │
+Combat blast / TBI             ─┘        Renal tubular DNA damage   │     since 2010)  │                              │
+                                         Cortical scarring          │                  │                              │
+                                         SNc dopaminergic           │                  └─► (also direct: TCE/JP-4)    │
+                                          neurodegeneration         │                                                 │
+                                         + α-synuclein pathology    └─► PD / PARKINSONISM ─► autonomic ────────────────┘
+                                                                       (presumptive          neurogenic bladder
+                                                                        2010 / FY2021         + falls + dysphagia
+                                                                        NDAA)                 + cognitive decline
 ```
 
-The bundle is biologically coherent: anchoring on HTN + IHD captures everything downstream via 38 C.F.R. § 3.310. A single internist/cardiologist nexus letter can address HTN, IHD, stroke, and incontinence; a urologist or oncologist letter is preferred for the renal mass; a neurologist letter is preferred for the seizure.
+The bundle is biologically coherent: anchoring on HTN + IHD + PD captures everything downstream via 38 C.F.R. § 3.310. A single internist/cardiologist nexus letter can address HTN, IHD, stroke, and incontinence; a urologist or oncologist letter is preferred for the renal mass; a neurologist (ideally a movement-disorders specialist) is preferred for the PD/parkinsonism and seizure claims.
 
 ---
 
@@ -131,6 +149,8 @@ The bundle is biologically coherent: anchoring on HTN + IHD captures everything 
 **Mechanism / epidemiology:** [Stellman, perimeter-spray TCDD, PubMed](https://pubmed.ncbi.nlm.nih.gov/25531592/) · [Korean Vietnam Veterans Health Study, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3796647/) · [Seveso 25-yr, Am J Epi](https://academic.oup.com/aje/article/167/7/847/83603) · [Burn-pit cohort, JAMA Network Open 2024](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818093) · [Xu dioxin-cancer meta, Sci Rep](https://www.nature.com/articles/srep38012)
 
 **Stroke / seizure / TBI:** [HTN-stroke meta, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12823101/) · [PSE Neurology 2024](https://www.neurology.org/doi/10.1212/WNL.0000000000209450) · [PSE PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9629926/) · [Vietnam Head Injury Study, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3093742/) · [Post-stroke bladder dysfunction, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409650/)
+
+**Parkinson's / parkinsonism:** [VA Public Health — Parkinson's & AO](https://www.publichealth.va.gov/exposures/agentorange/conditions/parkinsons.asp) · [VA Public Health — FY2021 NDAA presumptive additions (parkinsonism, bladder, hypothyroidism)](https://www.publichealth.va.gov/exposures/publications/agent-orange/agent-orange-2021/presumptions.asp) · [Goldman et al., TCE & PD twin study, *Ann Neurol* 2012, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366287/) · [NASEM neurologic chapter](https://www.ncbi.nlm.nih.gov/books/NBK535896/) · [Sakakibara, PD bladder dysfunction, PubMed](https://pubmed.ncbi.nlm.nih.gov/24447694/)
 
 **Renal:** [TCE NTP RoC, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK575906/) · [VA Public Health — Jet fuels](https://www.publichealth.va.gov/exposures/petroleum/jet_fuels.asp) · [HTN-RCC duration, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8109699/) · [Chow NEJM HTN/RCC](https://www.nejm.org/doi/full/10.1056/NEJM200011023431804) · [Silica CKD, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3266824/)
 

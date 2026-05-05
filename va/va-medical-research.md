@@ -4,7 +4,7 @@
 **Service in Republic of Vietnam:** ~August 1965 – October 1969 (II Corps / Central Highlands — An Khe → Pleiku → Ban Me Thuot)
 **MOS / Grade per DD-214:** Pioneer / Engineer (12B), PFC (E-3); APO SF 96450
 **Discharge:** Honorable; Vietnam Service Medal
-**Prepared:** May 4, 2026
+**Prepared:** May 4, 2026 (updated May 5, 2026 to add Parkinson's disease / parkinsonism)
 **Purpose:** Support the family in (a) deciding which VA claims to file, (b) commissioning persuasive private-physician **nexus letters**, and (c) building a unified medical-legal record establishing that the veteran's current conditions are *at least as likely as not* the result of his Vietnam service.
 
 > **Standard the VA actually applies:** the veteran does **not** have to *prove* causation. Under 38 U.S.C. § 5107(b) and 38 C.F.R. § 3.102, when the evidence is in approximate balance, *"the Secretary shall give the benefit of the doubt to the claimant."* A nexus opinion stated as **"at least as likely as not"** = exactly 50%, and that is enough.
@@ -18,14 +18,15 @@
 |---|---|---|---|
 | 1 | **Hypertension** | **Direct presumptive** (38 C.F.R. § 3.309(e)) | Added by **PACT Act § 404 (2022)**; presumption automatic for any boots-on-ground RVN vet |
 | 2 | **Ischemic heart disease** | **Direct presumptive** (38 C.F.R. § 3.309(e)) | On the AO presumptive list since 2010 |
-| 3 | **Stroke (CVA)** | **Secondary** to HTN and IHD (38 C.F.R. § 3.310), with backup *direct* theory | HTN is *the* leading cause of stroke; secondary connection is well-established BVA precedent |
-| 4 | **Seizure (recent)** | **Secondary** to stroke (post-stroke epilepsy) | PSE accounts for **30–50%** of new-onset seizures in adults ≥ 60 |
-| 5 | **Urinary incontinence** | **Secondary** to stroke (and HTN-driven nephropathy) | Post-stroke neurogenic bladder prevalence **38–60%** |
-| 6 | **Renal mass / suspected renal cell carcinoma** | **Direct** under *Combee v. Brown* (TCE / jet fuel / dioxin literature) **plus** *secondary* to HTN | Not on AO presumptive list, but multiple Group-1 IARC carcinogens in the unit's exposure profile + HTN nearly doubles RCC risk |
+| 3 | **Parkinson's disease / parkinsonism** | **Direct presumptive** (38 C.F.R. § 3.309(e)) | Parkinson's disease presumptive since 2010; **parkinsonism (PD-mimic syndromes — PSP, MSA, vascular parkinsonism, drug-induced PS, CBD, DLB-with-PS) added by FY2021 NDAA § 9109**, codified at 89 FR 9938 (Feb 12, 2024) |
+| 4 | **Stroke (CVA)** | **Secondary** to HTN and IHD (38 C.F.R. § 3.310), with backup *direct* theory | HTN is *the* leading cause of stroke; secondary connection is well-established BVA precedent |
+| 5 | **Seizure (recent)** | **Secondary** to stroke (post-stroke epilepsy) | PSE accounts for **30–50%** of new-onset seizures in adults ≥ 60 |
+| 6 | **Urinary incontinence** | **Secondary** to stroke and/or PD (autonomic neurogenic bladder); HTN-driven nephropathy as alternative | Post-stroke neurogenic bladder prevalence **38–60%**; PD lower-urinary-tract symptoms prevalence **27–80%** |
+| 7 | **Renal mass / suspected renal cell carcinoma** | **Direct** under *Combee v. Brown* (TCE / jet fuel / dioxin literature) **plus** *secondary* to HTN | Not on AO presumptive list, but multiple Group-1 IARC carcinogens in the unit's exposure profile + HTN nearly doubles RCC risk |
 
-**The claim bundle is biologically coherent** — every condition above traces to a single chain of exposures and to two anchor presumptive diagnoses (HTN, IHD). One physician's nexus letter, properly written, can cover all six.
+**The claim bundle is biologically coherent** — every condition above traces to a single chain of exposures and to **three** anchor presumptive diagnoses (HTN, IHD, PD/parkinsonism). One or two physician nexus letters, properly written, can cover all seven.
 
-**File a single Fully Developed Claim** (VA Form 21-526EZ) listing all six conditions, supported by:
+**File a single Fully Developed Claim** (VA Form 21-526EZ) listing all seven conditions, supported by:
 - DD-214 (Vietnam Service Medal = automatic herbicide-exposure presumption)
 - Civilian medical records documenting each diagnosis
 - One or more nexus letters (templates and required language in §6 below)
@@ -108,8 +109,8 @@ The PACT Act of 2022 (Pub. L. 117-168, § 404) and the FY2021 NDAA (Pub. L. 116-
 - **MGUS** *(added by PACT Act 2022)*
 - Multiple myeloma
 - Non-Hodgkin's lymphoma
-- **Parkinsonism** *(added FY2021 NDAA)*
-- Parkinson's disease
+- **Parkinsonism** *(added FY2021 NDAA)* ← **applies to this veteran**
+- **Parkinson's disease** *(since 2010)* ← **applies to this veteran**
 - Peripheral neuropathy, early-onset (≥10% within 1 year of last exposure)
 - Porphyria cutanea tarda
 - Prostate cancer
@@ -146,13 +147,14 @@ For this veteran, secondary connection is the workhorse:
 | Stroke | Ischemic heart disease (presumptive) | **Strong.** Same atherosclerotic substrate; cardioembolic strokes from AF/post-MI/low-EF |
 | Seizure | Stroke (secondary-connected) | **Very strong.** Post-stroke epilepsy = 30–50% of new-onset adult seizures |
 | Urinary incontinence | Stroke (secondary-connected) | **Very strong.** Post-stroke neurogenic bladder in 38–60% acute / 15–25% chronic |
+| Urinary incontinence | Parkinson's disease / parkinsonism (presumptive) | **Strong.** PD autonomic neurogenic bladder; LUTS prevalence 27–80%; predominantly detrusor overactivity |
 | Renal cell carcinoma | Hypertension (presumptive) | **Moderate.** HTN doubles RCC risk, OR 2.6–4.1 after 25 years of HTN |
 
 Source: [38 C.F.R. § 3.310 (eCFR)](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR39056aee4e9ff13/section-3.310) · *Allen v. Brown*, 7 Vet. App. 439 (1995) (aggravation theory).
 
 ### E. Direct service connection for non-presumptive conditions — *Combee v. Brown*
 
-**A condition not on the presumptive list is *not* foreclosed.** *Combee v. Brown*, 34 F.3d 1039 (Fed. Cir. 1994) holds that a veteran may **always** prove direct causation through medical and scientific evidence, regardless of whether the condition is on the presumptive list. This is the legal basis for the renal-cell-carcinoma direct claim (§ 3.5 below).
+**A condition not on the presumptive list is *not* foreclosed.** *Combee v. Brown*, 34 F.3d 1039 (Fed. Cir. 1994) holds that a veteran may **always** prove direct causation through medical and scientific evidence, regardless of whether the condition is on the presumptive list. This is the legal basis for the renal-cell-carcinoma direct claim (§ 3.6 below).
 
 ### F. Burn-pit / particulate-matter presumption — does **not** apply to Vietnam
 
@@ -204,7 +206,34 @@ For each condition: (i) the mechanism by which service exposures plausibly cause
 
 ---
 
-### 3.3 Stroke (CVA) — secondary to HTN and IHD (with backup direct theory)
+### 3.3 Parkinson's disease / parkinsonism — anchor presumptive #3
+
+**Status:** **Parkinson's disease** has been on the Agent Orange presumptive list since 2010 (75 FR 14391). **Parkinsonism** (the broader rubric covering Parkinson-like syndromes — progressive supranuclear palsy (PSP), multiple system atrophy (MSA), vascular parkinsonism, drug-induced parkinsonism, corticobasal degeneration (CBD), and dementia with Lewy bodies presenting with parkinsonian features) was **added by FY2021 NDAA § 9109**, codified to 38 C.F.R. § 3.309(e) by VA's final rule at 89 FR 9938 (Feb 12, 2024). **Either label triggers the presumption** — no nexus letter is strictly required for the presumption to apply, but a brief letter strengthens the file (and is essential to anchor secondary claims like incontinence). If the diagnosis is uncertain or atypical (early postural instability, vertical gaze palsy, dysautonomia, asymmetric apraxia, etc.), file under "parkinsonism" rather than "Parkinson's disease" — this preserves the presumption regardless of subsequent diagnostic refinement.
+
+**Mechanism — three converging toxicant pathways relevant to this veteran:**
+
+1. **TCDD / Agent Orange.** AhR activation in nigrostriatal dopaminergic neurons drives mitochondrial complex-I inhibition, oxidative stress, α-synuclein aggregation, and microglial neuroinflammation. The same mechanism is shared by paraquat and rotenone — well-validated experimental PD inducers — supporting biological plausibility for the broader herbicide class. Sources: [NASEM Neurologic Disorders chapter (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK535896/) · [Agent Orange neurology review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9920643/) · [Tanner et al. paraquat/rotenone & PD — *Environ Health Perspect*](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1002839).
+2. **Trichloroethylene (TCE).** Independently associated with PD. **Goldman et al. (Ann Neurol 2012) twin-discordance study found OR ~6 for occupational TCE exposure.** This is *direct* evidence, not extrapolation. The veteran's documented motor-pool TCE exposure (parts cleaning of diesel and gasoline engines for the 70th's heavy-equipment fleet) is a concrete, citable PD risk factor on top of herbicide presumption. A 2023 Camp Lejeune cohort study reaffirmed the TCE-PD link. Sources: [Goldman et al., *Ann Neurol* 2012 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366287/) · [Goldman, *Mov Disord* review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3947293/).
+3. **Combat blast / mild TBI.** Documented TBI exposure for combat engineers (mortar attacks at Camp Radcliff, mine clearance, demolitions). Moderate-to-severe TBI roughly **doubles PD risk**; even repeated mild TBI is associated with increased α-synuclein pathology and accelerates parkinsonism onset. Source: [Gardner et al., *Ann Neurol* 2018 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6135645/).
+
+**Epidemiology.** NASEM *Veterans and Agent Orange Update 2008* moved PD to **"limited or suggestive evidence of an association,"** which drove the VA's 2010 presumption. NASEM *Update 2014* reaffirmed and extended the finding. Korean Vietnam Veterans Health Study found elevated parkinsonism rates in heavily exposed subgroups. Goldman's TCE twin study and the Air Force Health Study mortality data converge.
+
+**Latency.** PD typically presents in the 60s–80s; latency from toxicant exposure 20–40 years; clinical onset in late life from 1965–69 exposure is squarely consistent with the natural history. Many AO-presumptive PD claims are filed by veterans in this age and exposure window.
+
+**Confounder rebuttal.** Age, family history. *Negative* confounder: smoking (smokers paradoxically have lower PD risk — so smoking, often raised against other claims, *strengthens* this one). All confounders are legally irrelevant once boots-on-ground is established for a presumptive condition.
+
+**Draft nexus paragraph (PD / parkinsonism):**
+> "Mr. ___'s diagnosis of [Parkinson's disease / parkinsonism — specify subtype if known: idiopathic PD, PSP, MSA, vascular parkinsonism, drug-induced parkinsonism, CBD, or DLB-with-parkinsonism] is a presumptive service-connected condition under 38 C.F.R. § 3.309(e) — Parkinson's disease has been on the Agent Orange presumptive list since 2010, and the broader rubric of 'parkinsonism' was added by Section 9109 of the FY2021 National Defense Authorization Act and codified by VA at 89 FR 9938 (Feb 12, 2024). To the extent any independent medical opinion is requested, it is **at least as likely as not** (probability ≥ 50%) that his condition is the result of his service exposures via three converging mechanisms: (i) TCDD/AhR-mediated nigrostriatal dopaminergic neurodegeneration, with α-synuclein aggregation and microglial neuroinflammation; (ii) chronic occupational exposure to trichloroethylene during the 70th Engineer Battalion's motor-pool operations (Goldman et al., Ann Neurol 2012, twin-discordance OR ~6 for occupational TCE); and (iii) blast/concussive injury from documented combat exposure (mortar attacks at Camp Radcliff, mine clearance, demolitions), which approximately doubles PD risk."
+
+**Secondary connections downstream of PD/parkinsonism (worth noting in the letter):**
+- **Urinary incontinence** — autonomic neurogenic bladder, LUTS prevalence 27–80%, detrusor overactivity is the typical pattern (see § 3.7).
+- **Falls and traumatic injury** — gait instability, postural hypotension; if the veteran's stroke was preceded by a fall-related cervical/intracranial event, document.
+- **Dysphagia / aspiration pneumonia** — common late-stage PD complications, separately ratable.
+- **Cognitive decline / PD dementia** — if present, separately ratable (mental-disorder schedule).
+
+---
+
+### 3.4 Stroke (CVA) — secondary to HTN and IHD (with backup direct theory)
 
 **Status:** *Not* on the presumptive list. The § 3.309(e) Note expressly excludes stroke from "ischemic heart disease." Must be filed as **secondary** to a presumptive condition. Backup direct argument exists.
 
@@ -221,7 +250,7 @@ For each condition: (i) the mechanism by which service exposures plausibly cause
 
 ---
 
-### 3.4 Recent seizure — secondary to stroke (and/or to combat TBI)
+### 3.5 Recent seizure — secondary to stroke (and/or to combat TBI)
 
 **Status:** Not presumptive. File as **secondary to stroke**; alternative theory: **secondary to combat TBI** (post-traumatic epilepsy).
 
@@ -239,7 +268,7 @@ Sources: [Post-stroke epilepsy review — Neurology (2024)](https://www.neurolog
 
 ---
 
-### 3.5 Renal mass / renal cell carcinoma — direct (*Combee*) **and** secondary to HTN
+### 3.6 Renal mass / renal cell carcinoma — direct (*Combee*) **and** secondary to HTN
 
 **Status:** Kidney cancer is *not* on the AO presumptive list. Must be filed as **direct** under 38 C.F.R. § 3.303 (per *Combee v. Brown*, 34 F.3d 1039) **and** as **secondary** to service-connected HTN. Kidney cancer *is* on the burn-pit presumptive list — but only for post-1990 service eras, not Vietnam. (See § 2.F.)
 
@@ -270,25 +299,27 @@ Sources: [Post-stroke epilepsy review — Neurology (2024)](https://www.neurolog
 
 ---
 
-### 3.6 Urinary incontinence — secondary to stroke (and HTN-driven nephropathy)
+### 3.7 Urinary incontinence — secondary to stroke and/or PD; HTN-driven nephropathy as alternative
 
-**Status:** Not presumptive. File as **secondary to stroke** under 38 C.F.R. § 3.310; alternative theory secondary to renal pathology.
+**Status:** Not presumptive. File as **secondary to stroke** under 38 C.F.R. § 3.310; **also as secondary to PD/parkinsonism** (autonomic neurogenic bladder); alternative theories secondary to renal pathology and to hypertensive nephrosclerosis.
 
-**Mechanism.** Three converging:
+**Mechanism.** Four converging pathways, all with at least one service-connected upstream anchor:
+
 1. **Post-stroke neurogenic bladder.** Acute prevalence 38–60%; chronic 15–25%; **~90% have overactive detrusor on urodynamics**. Frontal/insular cortex strokes disinhibit micturition reflex.
-2. **Renal mass / RCC mass effect or post-treatment voiding dysfunction.**
-3. **Hypertensive nephrosclerosis / CKD.** Nocturia, urgency, and overflow incontinence from chronic kidney disease.
+2. **PD / parkinsonism autonomic neurogenic bladder.** **LUTS prevalence 27–80% in PD; detrusor overactivity is the typical urodynamic pattern.** Mechanism: degeneration of basal-ganglia inhibition of the pontine micturition center → detrusor overactivity, urgency, frequency, nocturia, and urge incontinence. This pathway is independent of stroke and is anchored on a separate presumptive condition.
+3. **Renal mass / RCC mass effect or post-treatment voiding dysfunction.**
+4. **Hypertensive nephrosclerosis / CKD.** Nocturia, urgency, and overflow incontinence from chronic kidney disease.
 
-Sources: [Bladder dysfunction following stroke (PMC, 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409650/) · [Stroke and Incontinence — Stroke/AHA Journals](https://www.ahajournals.org/doi/10.1161/01.STR.29.2.524).
+Sources: [Bladder dysfunction following stroke (PMC, 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409650/) · [Stroke and Incontinence — Stroke/AHA Journals](https://www.ahajournals.org/doi/10.1161/01.STR.29.2.524) · [Sakakibara, PD bladder dysfunction — *Auton Neurosci* 2014 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/24447694/).
 
-**Confounder rebuttal.** Age-related detrusor instability, BPH, prior pelvic surgery, dementia all contribute — but temporal alignment with the recent stroke makes that the dominant proximate cause. Age contributes; it does not eliminate the service-connected etiology.
+**Confounder rebuttal.** Age-related detrusor instability, BPH, prior pelvic surgery, dementia all contribute — but temporal alignment with the recent stroke and/or with PD-onset symptoms makes the service-connected upstream conditions the dominant proximate causes. Age contributes; it does not eliminate the service-connected etiology.
 
 **Draft nexus paragraph (incontinence):**
-> "Mr. ___ has urinary incontinence requiring continuous use of absorbent garments. His incontinence emerged in the temporal context of his cerebrovascular accident on [date]. It is **at least as likely as not** that his urinary incontinence is proximately caused by — and is proximately aggravated by — his cerebrovascular accident (which is itself service-connected secondary to service-connected hypertension and ischemic heart disease), under 38 C.F.R. § 3.310. Post-stroke neurogenic bladder dysfunction is well-described, with acute-phase prevalence of 38–60% and chronic prevalence of 15–25% in stroke survivors; approximately 90% of post-stroke incontinence is mediated by detrusor overactivity (overactive bladder)."
+> "Mr. ___ has urinary incontinence requiring continuous use of absorbent garments. His incontinence emerged in the temporal context of his cerebrovascular accident on [date] and his Parkinson's disease / parkinsonism diagnosis on [date]. It is **at least as likely as not** that his urinary incontinence is proximately caused by — and is proximately aggravated by — both his service-connected cerebrovascular accident (itself secondary to service-connected hypertension and ischemic heart disease) and his service-connected Parkinson's disease / parkinsonism, under 38 C.F.R. § 3.310. Post-stroke neurogenic bladder dysfunction is well-described, with acute-phase prevalence of 38–60% and chronic prevalence of 15–25% in stroke survivors, approximately 90% mediated by detrusor overactivity. PD autonomic neurogenic bladder has a reported prevalence of 27–80%, also predominantly detrusor-overactivity in pattern, mediated by loss of basal-ganglia inhibition of the pontine micturition center. Each upstream condition is independently sufficient to cause the incontinence; together they are overdetermined."
 
 ---
 
-## 4. The Unified Causal Chain — One Story, Six Diagnoses
+## 4. The Unified Causal Chain — One Story, Seven Diagnoses
 
 ```
 Tier 1 — SERVICE EXPOSURES (1965–1969, II Corps Central Highlands, 70th Engr Bn)
@@ -302,15 +333,21 @@ Tier 1 — SERVICE EXPOSURES (1965–1969, II Corps Central Highlands, 70th Engr
                             ▼
 Tier 2 — MOLECULAR / PHYSIOLOGIC INSULTS
   • AhR activation → endothelial dysfunction, RAAS sensitization, atherogenesis
+  • AhR activation in SNc → mitochondrial complex-I inhibition,
+        dopaminergic neuron oxidative death, α-synuclein aggregation,
+        microglial neuroinflammation
   • PM2.5 → systemic inflammation
-  • TCE/benzene → renal proximal tubular DNA damage
+  • TCE/benzene → renal proximal tubular DNA damage; TCE → PD (Goldman OR ~6)
   • Lead/silica → glomerular & interstitial injury
-  • TBI → cortical scarring, lifelong epileptogenic focus
+  • TBI → cortical scarring (lifelong epileptogenic focus); PD risk ~2×
                             │
                             ▼
 Tier 3 — ANCHOR PRESUMPTIVE DIAGNOSES (38 CFR § 3.309(e))
   • HYPERTENSION (PACT Act 2022 — "sufficient evidence")
   • ISCHEMIC HEART DISEASE (presumptive since 2010)
+  • PARKINSON'S DISEASE / PARKINSONISM (PD since 2010; parkinsonism via
+        FY2021 NDAA § 9109; covers PSP, MSA, vascular PS, drug-induced PS,
+        CBD, DLB-with-PS)
                             │
                             ▼
 Tier 4 — DOWNSTREAM SECONDARY DIAGNOSES (38 CFR § 3.310)
@@ -319,14 +356,19 @@ Tier 4 — DOWNSTREAM SECONDARY DIAGNOSES (38 CFR § 3.310)
         ├── SEIZURE          ← Stroke (post-stroke epilepsy, 30–50% of new
         │                       seizures in elderly) ± combat TBI (PTE)
         │
-        └── INCONTINENCE     ← Stroke (neurogenic bladder, 38–60%)
-                                + RCC mass effect + HTN nephropathy
-
+        └── INCONTINENCE  ◄──┐
+                             │  ← Stroke (neurogenic bladder, 38–60%)
+                             │  ← PD (autonomic neurogenic bladder, 27–80%)
+                             │  + RCC mass effect + HTN nephropathy
+                             │
   • RENAL CELL CARCINOMA  ← Direct (TCE Group 1, jet-fuel OR ~3, dioxin)
-                              + Secondary to HTN (OR 2–4)
+                            + Secondary to HTN (OR 2–4)
+
+  • PD secondary effects (independently ratable if present):
+       falls / postural instability, dysphagia, cognitive decline / PDD
 ```
 
-**Why this unified chain matters strategically:** a single skilled physician — a *cardiologist* or *internist* with a strong CV — can cover all six conditions in one or two letters by anchoring on HTN/IHD and walking the cascade. The same is true of the rating board's analysis: if HTN is granted, every secondary becomes much easier.
+**Why this unified chain matters strategically:** two coordinated physician letters — one *cardiologist or internist* (HTN, IHD, stroke, incontinence) and one *neurologist, ideally a movement-disorders specialist* (PD/parkinsonism, seizure) — can cover all seven conditions by anchoring on the three presumptives and walking the cascade. The same is true of the rating board's analysis: if HTN, IHD, and PD are granted, every secondary becomes much easier.
 
 ---
 
@@ -361,15 +403,15 @@ Two viable physician sources:
 2. **A specialty nexus-letter service.** Several reputable physician groups (private practice cardiologists / internists) charge $500–$1,500 per condition. They will not have a treating relationship but will review the C-file. Ask the VSO for current local recommendations; avoid services with no public CVs or with NP/PA-only signatures.
 
 **Ideal letter package for this veteran:**
-- One letter from a **cardiologist or internist** covering HTN + IHD + stroke (primary anchor letter)
-- One letter from a **neurologist** covering seizure (and TBI history if pursued)
-- One letter from a **urologist or oncologist** covering renal mass + incontinence
+- One letter from a **cardiologist or internist** covering HTN + IHD + stroke + incontinence (primary anchor letter)
+- One letter from a **neurologist** — ideally a **movement-disorders specialist** — covering PD/parkinsonism + seizure (and TBI history if pursued); this letter can also speak to incontinence as secondary to PD
+- One letter from a **urologist or oncologist** covering renal mass (and, if needed, the urology angle on incontinence)
 
 ### Step 4: File the claim
 
 - **Form: VA Form 21-526EZ** ("Application for Disability Compensation and Related Compensation Benefits") — file electronically at [va.gov/disability/file-disability-claim](https://www.va.gov/disability/file-disability-claim/)
 - **Mark "Fully Developed Claim"** — speeds processing
-- **List all six conditions on one claim** — claims for multiple conditions are processed together
+- **List all seven conditions on one claim** — claims for multiple conditions are processed together
 - **VA Form 21-4138** ("Statement in Support of Claim") — write a one- to two-page statement summarizing service, exposures, and conditions; reference the nexus letters by name
 - **Request C&P exams** if VA orders them; the VSO and treating physicians should brief the veteran beforehand on what to expect
 - **If aged 85+ at filing:** explicitly request **expedited handling** in the 21-4138 (verify current age — DD-214 DOB suggests ~82 in 2026)
@@ -502,6 +544,8 @@ Sources on nexus-letter standards: [VA Nexus Letter Requirements — vetclaims.a
 - [VA — The PACT Act and Your VA Benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 - [VA Public Health — Diseases Associated with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/conditions/index.asp)
 - [VA Public Health — IHD and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/conditions/ischemicheartdisease.asp)
+- [VA Public Health — Parkinson's Disease and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/conditions/parkinsons.asp)
+- [VA Public Health — FY2021 NDAA presumptive additions (parkinsonism, bladder cancer, hypothyroidism)](https://www.publichealth.va.gov/exposures/publications/agent-orange/agent-orange-2021/presumptions.asp)
 - [VA Public Health — Jet Fuels](https://www.publichealth.va.gov/exposures/petroleum/jet_fuels.asp)
 - [VA — Hazardous materials exposure (top page)](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/)
 - [VA — Apply for disability compensation](https://www.va.gov/disability/file-disability-claim/)
@@ -552,6 +596,14 @@ Sources on nexus-letter standards: [VA Nexus Letter Requirements — vetclaims.a
 - [Stroke and Incontinence — Stroke/AHA Journals](https://www.ahajournals.org/doi/10.1161/01.STR.29.2.524)
 - [Bladder dysfunction following stroke (PMC, 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409650/)
 
+### Parkinson's disease / parkinsonism
+- [Goldman et al., TCE & PD twin-discordance study — *Ann Neurol* 2012 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366287/)
+- [Goldman, Solvent exposures and PD — *Mov Disord* review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3947293/)
+- [Tanner et al., Paraquat / rotenone & PD — *Environ Health Perspect*](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1002839)
+- [Gardner et al., TBI & risk of PD — *Ann Neurol* 2018 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6135645/)
+- [Sakakibara, PD lower-urinary-tract dysfunction — *Auton Neurosci* 2014 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/24447694/)
+- [Agent Orange neurology review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9920643/)
+
 ### Renal / nephrotoxicity
 - [IARC Monograph 106 — TCE & chlorinated solvents (PDF)](https://publications.iarc.who.int/_publications/media/download/3808/35dbe800bc961a10150e81ba239717d03dae477e.pdf)
 - [NTP Report on Carcinogens — TCE chapter (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK575906/)
@@ -585,6 +637,8 @@ Sources on nexus-letter standards: [VA Nexus Letter Requirements — vetclaims.a
 - **Burn-pit presumption does not apply** to Vietnam-era service. Don't waste a claim under § 3.320 — use burn-pit *facts* (per GAO-25-107504) as evidence of *direct* exposure for non-presumptive conditions like the renal mass.
 - **MGUS** is now an Agent Orange presumptive (PACT Act 2022). If the veteran has *any* monoclonal gammopathy on serum protein electrophoresis (SPEP) — a common incidental finding in this age group — it is an additional presumptive claim worth filing.
 - **Diabetes type 2** is presumptive. If the veteran has it, file it. Vascular and renal complications would then have a second presumptive anchor besides HTN/IHD.
+- **Parkinson's disease vs. parkinsonism — diagnostic specificity matters but isn't required.** Parkinson's disease has been presumptive since 2010; parkinsonism (the broader rubric covering PD-mimics — PSP, MSA, vascular parkinsonism, drug-induced parkinsonism, CBD, DLB-with-parkinsonism) was added by FY2021 NDAA § 9109 in late 2020 and codified by VA at 89 FR 9938. **If the diagnosis is uncertain or atypical, file under "parkinsonism" — this preserves the presumption regardless of subsequent refinement.** A movement-disorders neurologist's evaluation is the gold-standard supporting document, but is not a prerequisite for filing. Levodopa response, DaT-SPECT imaging, and the UPDRS exam findings should be in the C-file if available.
+- **PD-related complications worth filing separately.** If the veteran has PD-related dysphagia, falls, postural instability, autonomic dysfunction (orthostatic hypotension, constipation, ED), cognitive decline / PD dementia, or REM-sleep behavior disorder, each of these can be separately rated under the appropriate VA disability schedule — all are well-established sequelae of a service-connected presumptive condition.
 - **Independent Medical Opinion (IMO).** If the rating board's C&P examiner writes an unfavorable opinion, an IMO from a board-certified specialist who reviews the C-file is the standard counter-move on appeal.
 - **Free OGC-accredited attorneys** become useful if any condition is denied. The MDVS or local VSO can recommend one.
 - **The unit's own DTIC Lessons Learned report** ([apps.dtic.mil/sti/tr/pdf/AD0824619.pdf](https://apps.dtic.mil/sti/tr/pdf/AD0824619.pdf)) was identified in research but not retrievable — it contains primary-source casualty and operations data and is worth ordering directly from DTIC for the claim file.
