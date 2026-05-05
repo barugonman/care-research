@@ -6,8 +6,8 @@ Over the last year, your patient John Allard has seen a decline in his overall p
 
 Of his current issues, we understand the following are of the sort that could be (as likely or not) traced back to his service years:
 
-Incontinence 
-New renal mass
+- Incontinence 
+- New renal mass
 
 We would like to request you consider writing nexus letters for John that describes any link between his issues and his military history.  We are informed that a separate letter is required for each specific health issue.  
 
