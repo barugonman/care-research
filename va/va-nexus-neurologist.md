@@ -8,7 +8,7 @@ Of his current issues, we understand the following are of the sort that could be
 
 - Recent seizure 
 - Recent stroke(s)
-- Parkinsons or Parkinsons-like symptoms  
+- Parkinsons / Parkinsonisms  
 
 We would like to request that you consider writing nexus letters for John that describes any link between his issues and his military history.  We have been informed that a separate letter is required for each specific health issue.  
 
