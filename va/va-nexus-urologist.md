@@ -1,5 +1,3 @@
-# Urologist 
-
 Dear Dr. Christopher Robertson, MD:
 
 Over the last year, your patient John Allard has seen a decline in his overall physical and mental state, making it increasingly challenging for the family to give him the best care without additional help.  John is a veteran who receives benefits based off of earlier assessments of his condition, however, he could receive additional benefits if the VA increased his disability level rating. To do that, we need to provide an ‘as likely or not or greater’ link from his current health issues back to his service years in Vietnam.  
