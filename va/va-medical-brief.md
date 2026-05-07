@@ -1,5 +1,5 @@
-# John Allard Symptoms
-## 781 990 7937
+# John Allard Relevant Background
+## 781 990 7939
 ## DOB Dec 9, 1941
 
 # Nexus Letter Brief — Vietnam Combat Engineer, 1965–1969
