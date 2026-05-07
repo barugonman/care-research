@@ -1,4 +1,6 @@
 ## John Allard Service Records and Background
+## 781 990 7939
+## DOB Dec 9, 1941
 
 <img width="3024" height="4032" alt="IMG_2447 2" src="https://github.com/user-attachments/assets/038307e5-3eb8-4b29-b420-7734464e0162" />
 
