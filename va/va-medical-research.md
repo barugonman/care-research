@@ -1,3 +1,7 @@
+# John Allard Relevant Background
+## 781 990 7937
+## DOB Dec 9, 1941
+
 # VA Service-Connected Disability Research
 
 **Veteran:** Vietnam-era combat engineer, **Co. A, 70th Engineer Battalion (Combat) ("Kodiaks"), 937th Engineer Group, 18th Engineer Brigade**
