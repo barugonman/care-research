@@ -1,3 +1,7 @@
+# John Allard Symptoms
+## 781 990 7937
+## DOB Dec 9, 1941
+
 # Nexus Letter Brief — Vietnam Combat Engineer, 1965–1969
 
 **Patient:** Co. A, **70th Engineer Battalion (Combat)**, "Kodiaks" / 937th Engr Group / 18th Engr Bde · MOS 12B Pioneer · Aug 1965 – Oct 1969 RVN · II Corps (An Khe → Pleiku → Ban Me Thuot) · APO SF 96450 · Vietnam Service Medal · honorable. **No significant in-service medical issues.**
