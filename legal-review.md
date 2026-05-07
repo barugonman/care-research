@@ -1,7 +1,6 @@
 # Legal Review — Estate Planning Counsel for John Allard, Marblehead, MA
 
 **Prepared:** May 7, 2026
-**For:** John Allard (85), Preston Beach Rd, Marblehead, MA 01945, and his children (Dan Allard, Ali Allard-Bruton)
 **Purpose:** (a) Evaluate **The Christensen Law Firm** (Marblehead) against comparable elder-law / estate-planning counsel within ~20 miles; (b) lay out the legal-financial framework so the family can interview attorneys with informed questions; (c) recommend a shortlist and a decision sequence.
 
 > This memo is research support, not legal advice. Engage a Massachusetts-licensed elder-law attorney before signing anything.
@@ -25,7 +24,7 @@
 
 ## 1. The Situation in One Page
 
-- **Person:** John Allard, age 85, widower; Vietnam-era veteran (separately pursuing increased VA disability benefits — see [`va/`](va/) in this repo).
+- **Person:** John, age 85, widower; Vietnam-era veteran (separately pursuing increased VA disability benefits — see [`va/`](va/) in this repo).
 - **House:** Preston Beach Rd, Marblehead, MA. Bought 1976 for **$65,000**. Currently worth **~$1,300,000**. Coastal property — flood-zone exposure to verify.
 - **Reverse mortgage:** Active HECM (FHA-insured Home Equity Conversion Mortgage), ~**$280,000** outstanding balance, ~**2 years remaining**. *Confirm whether the "2 years" refers to remaining tenure-payment period or true product maturity — HECMs do not amortize.*
 - **Family:** Two surviving adult children, two grandchildren. Children are in agreement on direction.
@@ -51,7 +50,7 @@ Source: [Probate and Family Court filing fees, Mass.gov](https://www.mass.gov/in
 
 ### B. Revocable living trust — the right primary tool
 
-The **Massachusetts Uniform Trust Code, M.G.L. c. 203E** (in effect since July 8, 2012) presumes a trust is revocable unless the document says otherwise (§ 602). The father, as settlor, signs a **Declaration / Agreement of Trust**, names himself as initial trustee and his children as successor trustees, and **funds** the trust by deeding Preston Beach Rd to himself "as trustee of the John Allard Revocable Trust dated [date]."
+The **Massachusetts Uniform Trust Code, M.G.L. c. 203E** (in effect since July 8, 2012) presumes a trust is revocable unless the document says otherwise (§ 602). The father, as settlor, signs a **Declaration / Agreement of Trust**, names himself as initial trustee and his children as successor trustees, and **funds** the trust by deeding Preston Beach Rd to himself "as trustee of the John Revocable Trust dated [date]."
 
 > **The single most common drafting failure in MA is creating a trust and never funding it.** A signed-but-unfunded trust is just expensive paper; the home remains in the probate estate. Funding = recording the deed; retitling brokerage/bank accounts; coordinating beneficiary designations.
 
