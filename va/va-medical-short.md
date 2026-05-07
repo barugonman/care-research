@@ -1,3 +1,7 @@
+# John Allard Relevant Background
+## 781 990 7939
+## DOB Dec 9, 1941
+
 # Physician Briefing — VA Nexus Letter Background
 
 **Patient:** Vietnam-era combat engineer
