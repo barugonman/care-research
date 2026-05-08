@@ -14,6 +14,12 @@ Trip out to front yard
 
 Journey out to back yard
 
+Shower every 1-2 days
+
+Put in hearing aids after shower
+
+
+
 ## John Rules
 
 Do not pick up items from floor 
