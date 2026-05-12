@@ -162,4 +162,4 @@ The bundle is biologically coherent: anchoring on HTN + IHD + PD captures everyt
 
 ---
 
-*A longer version with full legal/filing detail is in [va-medical-research.md](va-medical-research.md).*
+*A longer version with full legal/filing detail is in [va-john-allard-medical-research.md](va-john-allard-medical-research.md).*

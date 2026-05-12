@@ -98,4 +98,4 @@ AO/TCE/JP-4/PM/lead/silica/blast ─► AhR + oxidative + RAAS + cortical
 
 **Unit:** [70th Engr Bn — Army.mil](https://www.army.mil/article/166979/70th_engineer_battalion_history) · [70engrbtn.com](https://www.70engrbtn.com/) · [Camp Radcliff](https://en.wikipedia.org/wiki/Camp_Radcliff)
 
-*Longer versions: [va-medical-short.md](va-medical-short.md) (physician background) · [va-medical-research.md](va-medical-research.md) (full filing memo).*
+*Longer versions: [va-john-allard-medical-short.md](va-john-allard-medical-short.md) (physician background) · [va-john-allard-medical-research.md](va-john-allard-medical-research.md) (full filing memo).*
